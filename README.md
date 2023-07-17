@@ -2,6 +2,8 @@
 
 ## Install dependencies
 
+`git clone git@github.com:KonstantinKlepikov/algo-learn.git`
+
 `viretualenv -p python 3.10 venv`
 
 Make sure that `venv` is activated before install dependencies.
